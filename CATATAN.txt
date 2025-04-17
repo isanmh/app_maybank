@@ -1,0 +1,32 @@
+Ektensi Flutter :
+- Dart
+- Flutter
+- pubspec assist
+- awesome flutter snippets
+- remove comments
+
+Cara install Flutter di Windows:
+1. Download Flutter SDK dari situs resmi Flutter.
+2. Ekstrak file zip ke direktori yang diinginkan.
+3. Tambahkan path ke direktori bin Flutter ke PATH environment variable.
+4. Buka Command Prompt dan jalankan perintah `flutter doctor` untuk memeriksa instalasi.
+5. Ikuti petunjuk untuk menginstal dependensi yang diperlukan seperti Android Studio dan SDK Android.
+6. Setelah semua dependensi terinstal, jalankan perintah `flutter create nama_proyek` untuk membuat proyek baru.
+7. Masuk ke direktori proyek dengan `cd nama_proyek`.
+8. Jalankan aplikasi dengan perintah `flutter run`.
+
+Jalankan bisa :
+- Emulator Android Studio
+- Run & debug di Visual Studio Code
+- CLI -> flutter run
+
+CLI :
+flutter create nama_proyek
+flutter doctor 
+flutter devices
+flutter --version
+flutter pub get
+
+setting flutter  :
+priveiew UI
+ctrl + ,
