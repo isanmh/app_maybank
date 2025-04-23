@@ -1,6 +1,6 @@
-# app_maybank
+# app_maybank (Slicing from figma and Basic Flutter)
 
-A new Flutter project.
+Training FLutter MayBank on 14 - 22 April 2025
 
 ## Getting Started
 
